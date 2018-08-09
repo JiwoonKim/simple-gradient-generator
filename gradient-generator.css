@@ -1,0 +1,31 @@
+#background {
+	text-align: center;
+}
+h1, h3, button {
+	font-family: 'Fira Sans', sans-serif;
+	color: white;
+}
+#title {
+	font-size: 3em;
+	padding-top: 170px;
+}
+input {
+	width: 100px;
+	height: 40px;
+}
+#random {
+	display: block;
+	margin: auto;
+	margin-top: 15px;
+	color: black;
+	margin-bottom: 30px;
+}
+.container {
+	width:370px;
+	height: 28px;
+	background-color: rgb(200, 200, 200);;
+	margin: auto;
+}
+#currentColor {
+	color: black;
+}
